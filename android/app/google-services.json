@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706303084010",
+    "project_id": "orderprocessing-414ef",
+    "storage_bucket": "orderprocessing-414ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706303084010:android:90d6af3bf5bc82bcd6de93",
+        "android_client_info": {
+          "package_name": "com.example.order_processing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKBMThzn-ahMg0QvgaHCfQWOner3f3Zx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
